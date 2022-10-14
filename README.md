@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waterdark-droid
-- 👀 I’m interested in Networks
+- 👀 I’m interested in Android Application Development, UX/UI design
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking to collaborate on who likes to collaborate with.
 - 📫 How to reach me ? You can reach me througn ultra.thowfiq@gmail.com 
